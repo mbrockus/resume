@@ -1,0 +1,26 @@
+{
+    "name": "Matthew Brockus",
+    "website": "https://github.com/mbrockus/",
+    "linkedin": "https://www.linkedin.com/in/matthew-brockus-17ab0a159",
+    "github": "mbrockus",
+    "email": "matthew.brockus@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "HTML",
+        "CSS",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress"
+    ],
+    "otherSkills": [
+        "Continuous Improvement",
+        "Lean Six Sigma",
+        "Marathon Running"
+    ]
+}
